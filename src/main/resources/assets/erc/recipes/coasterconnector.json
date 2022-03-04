@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "FC"
+  ],
+  "key":
+  {
+    "F":
+    {
+      "item": "minecraft:tripwire_hook",
+      "data": 0
+    },
+    "C":
+    {
+      "item": "erc:coaster",
+      "data": 0
+    }
+  },
+  "result":
+  {
+    "item": "erc:coasterconnector",
+    "data": 0,
+    "count": 1
+  }
+}

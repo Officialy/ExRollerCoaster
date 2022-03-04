@@ -1,0 +1,6 @@
+{
+  "parent": "erc:block/railbase",
+  "textures": {
+    "all": "minecraft:block/obsidian"
+  }
+}

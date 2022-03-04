@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/smooth_stone_slab",
+  "textures": {
+    "bottom": "minecraft:block/nether_portal",
+    "top": "minecraft:block/nether_portal",
+    "side": "minecraft:block/nether_portal"
+  }
+}

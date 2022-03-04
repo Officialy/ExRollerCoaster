@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "inventory": { "model": "erc:block/railconst" },
+    "face=floor,facing=east": {
+      "model": "erc:block/railconst",
+      "y": 270,
+      "x": 180
+    },
+    "face=floor,facing=north": {
+      "model": "erc:block/railconst",
+      "y": 180,
+      "x": 180
+    },
+    "face=floor,facing=south": {
+      "model": "erc:block/railconst",
+      "x": 180
+    },
+    "face=floor,facing=west": {
+      "model": "erc:block/railconst",
+      "y": 90,
+      "x": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "erc:block/railconst",
+      "y": 90
+    },
+    "face=ceiling,facing=north": {
+      "model": "erc:block/railconst"
+    },
+    "face=ceiling,facing=south": {
+      "model": "erc:block/railconst",
+      "y": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "erc:block/railconst",
+      "y": 270
+    },
+    "face=wall,facing=east": {
+      "model": "erc:block/railconst",
+      "y": 90,
+      "x": 90,
+      "uvlock": true
+    },
+    "face=wall,facing=north": {
+      "model": "erc:block/railconst",
+      "x": 90,
+      "uvlock": true
+    },
+    "face=wall,facing=south": {
+      "model": "erc:block/railconst",
+      "y": 180,
+      "x": 90,
+      "uvlock": true
+    },
+    "face=wall,facing=west": {
+      "model": "erc:block/railconst",
+      "y": 270,
+      "x": 90,
+      "uvlock": true
+    }
+  }
+}
